@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Francesca 👋
 
-<!--
-**FrancescaYE/FrancescaYE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm building my skills in Linux Administration, Automation and Cloud Computing through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning Journey
+
+🐧 Linux Administration  
+⚙️ Bash Scripting & Automation  
+🌐 Networking  
+☁️ Cloud Computing  
+
+## Featured Project
+
+### Linux-Cloud-Journey
+
+A practical learning journey from Linux fundamentals to Cloud Computing.
+
+Current project:
+
+- Server Daily Report
+  - Linux monitoring
+  - Bash scripting
+  - Cron automation
+  - Log management
+
+## Tools
+
+- Linux
+- Bash
+- Git & GitHub
+- Cron
+
+More projects coming soon
